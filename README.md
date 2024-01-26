@@ -31,3 +31,15 @@ Developed user-friendly interfaces for inputting and validating payment-related 
 # Results:
 Significantly reduced manual effort and processing time in payroll management.
 Enhanced accuracy and minimized errors through the use of Excel functions and macros.
+
+ **Open the Excel File:**
+- Launch the Excel file (`employee_payroll_software.xlsx`) to access the payroll system.
+
+**Explore and Customize:**
+- Navigate through different sheets (Reports, Attendance, System, Payments) to explore and customize as needed.
+
+## Requirements
+- Microsoft Excel (Version X or higher)
+
+## Contributing
+If you'd like to contribute to the project or report issues, feel free to open a pull request or create an issue.
